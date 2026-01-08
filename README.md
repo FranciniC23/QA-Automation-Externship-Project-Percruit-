@@ -52,11 +52,17 @@ Logged bugs in Jira with clear steps to reproduce, expected results, and observe
 Examples of issues discovered:
 
 • PER-310: Mentor Account – Blocked dates in date-specific overrides are lost after leaving availability settings
+
 • PER-311: Login – Does not enforce maximum length for email and password fields
+
 • PER-312: Login – Shows unclear email validation message for valid or short emails
+
 • PER-313: System allows users to create overlapping time slots (Mentor Account)
+
 • PER-314: Student Job Board – Job list persists after clearing filters
+
 • PER-315: Student Job Board – Applied jobs not indicated on listings
+
 • PER-316: Student Account – AI Buddle: Cannot create resume without guidance on missing fields
 
 🛠️ Debugging and Verification
