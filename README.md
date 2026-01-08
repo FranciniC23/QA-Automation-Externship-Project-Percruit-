@@ -2,9 +2,11 @@
 
 🎯 Objective
 
+
 To extend Percruit’s automated test coverage by targeting the most frequently used student paths within the platform, validating both successful flows and failure cases. The project aims to safeguard the student experience and strengthen the development team’s deployment confidence by providing a reliable automated safety net that supports faster iteration and higher platform stability.
 
 💡 Skills Learned
+
 
 • Exploratory testing  
 • Automated testing with Playwright  
@@ -12,14 +14,18 @@ To extend Percruit’s automated test coverage by targeting the most frequently 
 • Bug reporting and tracking in JIRA  
 • Debugging in Visual Studio Code  
 
+
 🔧 Tools Used 
+
 
 • Visual Studio Code  
 • GitHub  
 • Playwright  
 • JIRA  
 
+
 ⚙️ Testing Approach
+
 
 • Conducted exploratory testing on core student and mentor workflows to identify edge cases and potential issues  
 • Developed automated tests using Playwright for critical user flows  
@@ -27,7 +33,9 @@ To extend Percruit’s automated test coverage by targeting the most frequently 
 • Logged and tracked bugs in JIRA  
 • Debugged test failures and workflow issues using Visual Studio Code  
 
-Steps / QA Process
+
+   Steps / QA Process
+
 
 🕵️ Exploratory Testing 
 
@@ -37,6 +45,7 @@ Focused on high-traffic flows, such as login, mentor availability, and the stude
 
 Documented any unexpected behavior to create Jira tickets for tracking.
 
+
 🤖 Automated Testing
 
 Developed automated tests using Playwright for critical user flows to prevent regressions.
@@ -44,6 +53,7 @@ Developed automated tests using Playwright for critical user flows to prevent re
 Wrote structured test cases in Gherkin for Cucumber to standardize testing scenarios.
 
 Validated both successful and failure scenarios to ensure platform reliability.
+
 
 🐞Bug Reporting and Tracking
 
@@ -64,6 +74,7 @@ Examples of issues discovered:
 • PER-315: Student Job Board – Applied jobs not indicated on listings
 
 • PER-316: Student Account – AI Buddle: Cannot create resume without guidance on missing fields
+
 
 🛠️ Debugging and Verification
 
