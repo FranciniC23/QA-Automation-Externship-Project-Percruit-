@@ -1,0 +1,16 @@
+ 🧪 Student Connect → Messages — BDD Test Scenarios
+
+This section contains **BDD-style Gherkin scenarios** designed to validate the Student Connect → Messages feature in the Percruit platform.  
+The scenarios cover key workflows including:
+
+- Viewing the Messages page  
+- Opening existing conversations  
+- Sending and receiving messages  
+- Searching for mentors  
+- Filtering unread and archived messages  
+- Handling missing mentor information  
+
+📄 Feature & Step Files
+
+- **Feature Folder:** [Connect_messages](./Feature/Connect_messages)  
+- **Step Definitions:** [connectmessages.step.ts](./Feature/Connect_messages/step_definitions/connectmessages.step.ts)
